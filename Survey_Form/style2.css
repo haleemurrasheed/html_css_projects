@@ -1,0 +1,103 @@
+body {
+  background-color: #A9DFBF;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-family: Optima;
+  font-size: x-large;
+  line-height: 22px;
+  color: #1C2833;
+
+}
+
+
+.container {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: large;
+  width: 65%;
+  margin: auto;
+  border-radius: 5px;
+  background-color: #7DCEA0;
+
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+.text-center-end {
+  text-align: center;
+  font-size: small;
+}
+
+.class-control {
+  display: block;
+  margin-bottom: auto;
+  width: 100%;
+  height: 2.5rem;
+  padding-left: 10px;
+  box-sizing: border-box; /* to control padding*/
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+
+}
+
+
+.form-group {
+  margin: auto;
+  padding: 0.25rem;
+  border-radius: 2px;
+  padding: 0.9rem;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+
+
+}
+
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 0.9rem;
+  background: #117A65;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.input-textarea {
+  min-height: 120px;
+  width: 100%;
+  padding: 0.5rem;
+  margin: auto;
+  font-family: inherit;
+  font-size: small;
+  box-sizing: border-box;
+}
+
+.clue {
+  margin-left: 0.25rem;
+  font-size: small;
+  color: auto;
+  vertical-align: super;
+
+}
+
+.input-radio,
+.input-checkbox {
+  display: inline;
+  margin-right:0.625rem;
+  min-height: 1rem;
+  min-width: 1rem;
+
+}
